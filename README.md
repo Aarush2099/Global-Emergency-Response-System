@@ -1,6 +1,4 @@
-# EMERGENCY-RESPONSE-SYSTEM
-
-Demonstration https://www.youtube.com/watch?v=DSJWea4TKfI&feature=youtu.be
+# GLOBAL-EMERGENCY-RESPONSE-SYSTEM
 
 Request an emergency dispatch(ambulance,police or fire) with just one touch,your current location and information(emergency contacts,blood type etc) 
 is transfered to the nearest available dispatcher,users can then monitor dispatchers location on a live map.Users can also report incidents like accidents or crimes with the incident reporting function,users can save their important routes so that when an incident occurs near their routes they are promtly alerted.
